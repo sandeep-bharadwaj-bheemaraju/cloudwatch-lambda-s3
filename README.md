@@ -1,12 +1,12 @@
 # cloudwatch-lambda-s3
 
-*cloudwatch-lambda-s3* is a lamda piece of work which helps in data migration from onprem to RDS and provides an easy-and-fastway to migrate your data to AWS Cloud applications.
+*cloudwatch-lambda-s3* is a lambda piece of work which helps in data migration from On-Prem to RDS and provides an easy-and-fastway to migrate your data to AWS Cloud applications.
 
 Currently, the focus is primarily on migrating data using CSV or Delimited file.
 
 # Overview
 
-*cloudwatch-lambda-s3* is a part of Lambda-Glue Architecure for data migration solution
+*cloudwatch-lambda-s3* is a part of Lambda-Glue Architecture for data migration solution
 
 ![cloudwatch-lambda-s3](https://github.com/sandeep-bharadwaj-bheemaraju/cloudwatch-lambda-s3/blob/master/dashboard/web/img/cloudwatch-lambda-s3.png)
 
